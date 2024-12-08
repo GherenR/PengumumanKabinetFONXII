@@ -50,7 +50,7 @@ function countDown() {
   const seconds = Math.floor((timeSpan % minute) / second)
 
   timeLeft.innerHTML =
-    days + 'Hari ' + hours + 'Jam ' + minutes + 'Menit ' + seconds + 'Detik '
+    hours + ' Jam ' + minutes + ' Menit ' + '  |  ' + seconds + ' Detik '
 }
 
 timerId = setInterval(countDown, second)
