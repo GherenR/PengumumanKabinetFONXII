@@ -2,7 +2,7 @@ const timeLeft = document.getElementById('time-left')
 const button1 = document.getElementById('button1')
 
 //month day year
-const duedate = new Date('December 08, 2024 23:59:59').toLocaleString("en-US", { timeZone: "Asia/Bangkok" });
+const duedate = new Date('December 08, 2024 23:59:59').toLocaleString({ timeZone: "Asia/Bangkok" });
 
 const second = 1000
 const minute = second * 60
