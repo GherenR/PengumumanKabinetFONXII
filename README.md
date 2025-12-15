@@ -3,11 +3,10 @@
 Website resmi untuk pengumuman dan informasi terkait **Kabinet Forum OSIS Nasional (FON) Angkatan XII**. Proyek ini bertujuan untuk memberikan informasi yang mudah diakses mengenai struktur kabinet, visi-misi, dan pengumuman terbaru bagi seluruh pengurus dan anggota.
 
 ## 📸 Tampilan (Screenshots)
-![Tampilan Website](./images/screenshot.png)
+![Tampilan Website](https://i.ibb.co.com/pvQ39GKm/Preview-Porto1.png)
 
 ## 🚀 Fitur Utama
 * **Responsive Design:** Tampilan menyesuaikan perangkat (Desktop & Mobile).
-* **Informasi Kabinet:** Menampilkan struktur dan detail anggota kabinet.
 * **Pengumuman:** Halaman khusus untuk update berita terbaru organisasi.
 
 ## 🛠️ Teknologi yang Digunakan
